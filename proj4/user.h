@@ -1,1 +1,0 @@
-int show_vm_areas(void);
