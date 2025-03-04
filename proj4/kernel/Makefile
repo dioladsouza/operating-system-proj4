@@ -1,0 +1,1 @@
+OBJS += proj1/kernel/show_vm_areas.o
